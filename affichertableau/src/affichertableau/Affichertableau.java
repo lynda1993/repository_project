@@ -45,6 +45,7 @@ public class Affichertableau {
         else  {
             somme1=somme1+tab[i];
             z++;
+            System.out.println("mon premier commit");
         }
         }
         moyenne=somme/x;
